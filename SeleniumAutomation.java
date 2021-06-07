@@ -4,6 +4,6 @@ public static void main (String args[])
 {
 	System.out.println("Right now doing Selenium project");
 	System.out.println("Jenkins sample");
-	System.out.println("Jenkins code");
+	System.out.println("Jenkins codes");
 }
 }
